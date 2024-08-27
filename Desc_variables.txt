@@ -1,0 +1,86 @@
+Descripción de las Variables:
+
+player_id: Identificador único del jugador.
+player_url: URL de la página del jugador en FIFA.
+fifa_version: Versión del juego FIFA.
+fifa_update: Número de actualización de FIFA.
+fifa_update_date: Fecha de la actualización de FIFA.
+short_name: Nombre corto del jugador.
+long_name: Nombre completo del jugador.
+player_positions: Posiciones en las que puede jugar el jugador.
+overall: Calificación general del jugador.
+potential: Potencial máximo del jugador.
+value_eur: Valor del jugador en euros.
+wage_eur: Salario del jugador en euros.
+age: Edad del jugador.
+dob: Fecha de nacimiento del jugador.
+height_cm: Altura del jugador en centímetros.
+weight_kg: Peso del jugador en kilogramos.
+league_id: Identificador único de la liga en la que juega el jugador.
+league_name: Nombre de la liga.
+league_level: Nivel de la liga (ej. 1 para la primera división).
+club_team_id: Identificador único del club.
+club_name: Nombre del club.
+club_position: Posición del jugador en su club.
+club_jersey_number: Número de camiseta del jugador en su club.
+club_loaned_from: Club del cual está cedido el jugador (si aplica).
+club_joined_date: Fecha en la que el jugador se unió al club.
+club_contract_valid_until_year: Año en el que vence el contrato del jugador.
+nationality_id: Identificador único de la nacionalidad del jugador.
+nationality_name: Nombre de la nacionalidad del jugador.
+nation_team_id: Identificador único del equipo nacional.
+nation_position: Posición del jugador en el equipo nacional.
+nation_jersey_number: Número de camiseta en el equipo nacional.
+preferred_foot: Pie preferido del jugador (derecho o izquierdo).
+weak_foot: Puntuación de la habilidad con el pie débil (1 a 5).
+skill_moves: Puntuación de las habilidades de regateo (1 a 5).
+international_reputation: Reputación internacional del jugador (1 a 5).
+work_rate: Ritmo de trabajo (ofensivo/defensivo).
+body_type: Tipo de cuerpo del jugador (ej. normal, delgado, robusto).
+real_face: Indica si la cara del jugador es realista en el juego (sí/no).
+release_clause_eur: Cláusula de rescisión en euros.
+player_tags: Etiquetas especiales del jugador (ej. Aerial Threat, Dribbler).
+player_traits: Rasgos especiales del jugador (ej. Liderazgo, Precisión).
+pace: Velocidad del jugador.
+shooting: Capacidad de disparo del jugador.
+passing: Capacidad de pase del jugador.
+dribbling: Habilidad de regate del jugador.
+defending: Habilidad defensiva del jugador.
+physic: Fuerza física del jugador.
+attacking_crossing: Precisión de los centros del jugador.
+attacking_finishing: Capacidad de definición del jugador.
+attacking_heading_accuracy: Precisión en los cabezazos.
+attacking_short_passing: Capacidad de pase corto.
+attacking_volleys: Capacidad de volea.
+skill_dribbling: Habilidad de regate.
+skill_curve: Habilidad de curva en el tiro.
+skill_fk_accuracy: Precisión en los tiros libres.
+skill_long_passing: Capacidad de pase largo.
+skill_ball_control: Control del balón.
+movement_acceleration: Aceleración del jugador.
+movement_sprint_speed: Velocidad máxima del jugador.
+movement_agility: Agilidad del jugador.
+movement_reactions: Reacciones del jugador.
+movement_balance: Equilibrio del jugador.
+power_shot_power: Potencia del disparo.
+power_jumping: Capacidad de salto.
+power_stamina: Resistencia física.
+power_strength: Fuerza del jugador.
+power_long_shots: Capacidad de tiro de larga distancia.
+mentality_aggression: Agresividad del jugador.
+mentality_interceptions: Capacidad de interceptar balones.
+mentality_positioning: Posicionamiento del jugador.
+mentality_vision: Visión de juego.
+mentality_penalties: Habilidad en los penales.
+mentality_composure: Templanza bajo presión.
+defending_marking_awareness: Conciencia táctica en defensa.
+defending_standing_tackle: Capacidad de entrada en defensa.
+defending_sliding_tackle: Capacidad de entrada deslizante en defensa.
+goalkeeping_diving: Habilidad de estirarse en los arqueros.
+goalkeeping_handling: Habilidad de manejo del balón en los arqueros.
+goalkeeping_kicking: Habilidad de saque del arquero.
+goalkeeping_positioning: Posicionamiento del arquero.
+goalkeeping_reflexes: Reflejos del arquero.
+goalkeeping_speed: Velocidad del arquero.
+ls, st, rs, lw, lf, cf, rf, rw, lam, cam, ram, lm, lcm, cm, rcm, rm, lwb, ldm, cdm, rdm, rwb, lb, lcb, cb, rcb, rb, gk: Son posiciones del jugador en el campo.
+player_face_url: URL de la imagen de la cara del jugador
